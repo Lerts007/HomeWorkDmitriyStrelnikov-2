@@ -1,0 +1,6 @@
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/Lesson-2/task-3/bin/Debug/task-3.exe
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/Lesson-2/task-3/bin/Debug/task-3.pdb
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/Lesson-2/task-3/obj/anycpu/Debug/task-3.csprojAssemblyReference.cache
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/Lesson-2/task-3/obj/anycpu/Debug/task-3.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/Lesson-2/task-3/obj/anycpu/Debug/task-3.exe
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/Lesson-2/task-3/obj/anycpu/Debug/task-3.pdb
