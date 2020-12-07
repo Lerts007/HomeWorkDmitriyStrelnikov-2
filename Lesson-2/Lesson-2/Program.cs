@@ -29,5 +29,4 @@ namespace Lesson2
                 Console.WriteLine($"Минимальное число {c}");
         }
     }
-    }
 }
