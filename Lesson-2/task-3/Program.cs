@@ -6,6 +6,11 @@ namespace task3
     {
         public static void Main(string[] args)
         {
+            /* Стрельников
+             * Задание №3
+             * С клавиатуры вводятся числа, пока не будет введен 0. 
+             * Подсчитать сумму всех нечетных положительных чисел.
+             */
             int number;
             int sum = 0;
             Console.WriteLine("Введите целое число: ");

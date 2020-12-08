@@ -6,7 +6,9 @@ namespace Lesson2
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Задание №1");
+            /* Стрельников
+             * Задание №1
+             * Написать метод, возвращающий минимальное из трёх чисел.*/
 
             Console.Write("Введите первое число: ");
             int a = int.Parse(Console.ReadLine());

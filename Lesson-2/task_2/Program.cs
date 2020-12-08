@@ -6,7 +6,9 @@ namespace task_2
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Задание №2");
+            /* Стрельников
+             * Задание №2
+             *  Написать метод подсчета количества цифр числа.*/
 
             Console.Write("Введите целое число: ");
             int number;
