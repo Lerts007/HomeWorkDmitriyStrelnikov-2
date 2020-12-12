@@ -2,12 +2,12 @@
   <MonoDevelop.Ide.ItemProperties.task-6 FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="task-6/Program.cs">
     <Files>
-      <File FileName="Lesson-2/Program.cs" Line="3" Column="16" />
-      <File FileName="task_2/Program.cs" />
-      <File FileName="task-3/Program.cs" />
-      <File FileName="task-4/Program.cs" Line="29" Column="1" />
-      <File FileName="task-5/Program.cs" Line="72" Column="83" />
-      <File FileName="task-6/Program.cs" Line="9" Column="39" />
+      <File FileName="Lesson-2/Program.cs" Line="9" Column="16" />
+      <File FileName="task_2/Program.cs" Line="11" Column="16" />
+      <File FileName="task-3/Program.cs" Line="13" Column="16" />
+      <File FileName="task-4/Program.cs" Line="21" Column="26" />
+      <File FileName="task-5/Program.cs" Line="15" Column="16" />
+      <File FileName="task-6/Program.cs" Line="16" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -31,7 +31,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/Lesson-2/task-3/Program.cs" relfile="task-3/Program.cs" line="14" column="1" />
+      <Breakpoint file="/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/Lesson-2/task-3/Program.cs" relfile="task-3/Program.cs" line="19" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
