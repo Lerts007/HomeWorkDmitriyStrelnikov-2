@@ -1,0 +1,6 @@
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/Lesson 4/HomeWorkDmitriyStrelnikov-4-/Task_1/bin/Debug/Task_1.exe
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/Lesson 4/HomeWorkDmitriyStrelnikov-4-/Task_1/bin/Debug/Task_1.pdb
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/Lesson 4/HomeWorkDmitriyStrelnikov-4-/Task_1/obj/Debug/Task_1.csprojAssemblyReference.cache
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/Lesson 4/HomeWorkDmitriyStrelnikov-4-/Task_1/obj/Debug/Task_1.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/Lesson 4/HomeWorkDmitriyStrelnikov-4-/Task_1/obj/Debug/Task_1.exe
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/Lesson 4/HomeWorkDmitriyStrelnikov-4-/Task_1/obj/Debug/Task_1.pdb
