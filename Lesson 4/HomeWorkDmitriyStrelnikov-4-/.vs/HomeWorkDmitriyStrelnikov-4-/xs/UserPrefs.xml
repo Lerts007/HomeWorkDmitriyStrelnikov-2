@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{F7CD42FE-E2D5-488C-B6F1-52D57C092D2A}|Default">
   <MonoDevelop.Ide.ItemProperties.Task__1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson__3__Task__2 FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task_2/MatrixWorker.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task_2/FileWorker.cs">
     <Files>
-      <File FileName="Task_2/FileWorker.cs" Line="25" Column="30" />
       <File FileName="Lesson_3_Task_2/Option.cs" Line="1" Column="1" />
       <File FileName="Task_2/Program.cs" Line="1" Column="1" />
-      <File FileName="Task_2/MatrixWorker.cs" Line="6" Column="21" />
+      <File FileName="Task_2/FileWorker.cs" Line="35" Column="1" />
+      <File FileName="Task_2/MatrixWorker.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,10 +15,13 @@
             <Node name="Lesson_3_Task_2" expanded="True" />
             <Node name="Task_1" expanded="True" />
             <Node name="Task_2" expanded="True">
-              <Node name="MatrixWorker.cs" selected="True" />
+              <Node name="FileWorker.cs" selected="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
