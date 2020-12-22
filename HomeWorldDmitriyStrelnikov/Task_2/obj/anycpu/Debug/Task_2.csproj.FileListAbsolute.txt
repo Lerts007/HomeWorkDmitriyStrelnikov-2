@@ -1,0 +1,6 @@
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/HomeWorldDmitriyStrelnikov/Task_2/bin/Debug/Task_2.exe
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/HomeWorldDmitriyStrelnikov/Task_2/bin/Debug/Task_2.pdb
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/HomeWorldDmitriyStrelnikov/Task_2/obj/anycpu/Debug/Task_2.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/HomeWorldDmitriyStrelnikov/Task_2/obj/anycpu/Debug/Task_2.exe
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/HomeWorldDmitriyStrelnikov/Task_2/obj/anycpu/Debug/Task_2.pdb
+/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/HomeWorldDmitriyStrelnikov/Task_2/obj/anycpu/Debug/Task_2.csprojAssemblyReference.cache
