@@ -1,27 +1,31 @@
 ﻿<Properties StartupConfiguration="{D441DFA3-0F1D-492D-B3A1-565365A046DC}|Default">
   <MonoDevelop.Ide.ItemProperties.Task__1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task_2/Message.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson_6_Task_1/Plot.cs">
     <Files>
       <File FileName="Lesson_5_Task_3/Program.cs" Line="9" Column="34" />
-      <File FileName="Lesson_5_Task_3/Message.cs" Line="49" Column="23" />
-      <File FileName="Lesson_5_Task_3/Option.cs" Line="15" Column="1" />
-      <File FileName="Task_2/Message.cs" Line="1" Column="1" />
+      <File FileName="Lesson_5_Task_3/Message.cs" Line="66" Column="38" />
+      <File FileName="Lesson_5_Task_3/Option.cs" Line="11" Column="64" />
+      <File FileName="Task_2/Message.cs" Line="74" Column="54" />
       <File FileName="Task_2/Option.cs" Line="1" Column="1" />
+      <File FileName="Lesson_6_Task_1/Program.cs" Line="8" Column="10" />
+      <File FileName="Lesson_6_Task_1/Plot.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HomeWorldDmitriyStrelnikov" expanded="True">
             <Node name="Lesson_5_Task_3" expanded="True" />
-            <Node name="Task_1" expanded="True" />
-            <Node name="Task_2" expanded="True">
-              <Node name="Message.cs" selected="True" />
+            <Node name="Lesson_6_Task_1" expanded="True">
+              <Node name="Plot.cs" selected="True" />
             </Node>
+            <Node name="Task_1" expanded="True" />
+            <Node name="Task_2" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lesson__6__Task__1 FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
