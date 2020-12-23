@@ -10,9 +10,6 @@ namespace Task_2
                 "\n2 - Удалить из сообщения все слова, которые заканчиваются на заданный символ." +
                 "\n3 - Найти самое длинное слово сообщения." +
                 "\n4 - Сформировать строку с помощью StringBuilder из самых длинных слов сообщения. ");
-        }
-        public void Enter()
-        { 
             int a = int.Parse(Console.ReadLine());
             var file = new Message("date.txt");
             file.TextOutput();
@@ -39,6 +36,10 @@ namespace Task_2
 
                     break;
             }
+        }
+        public void Enter()
+        { 
+            
         }
     }
 }

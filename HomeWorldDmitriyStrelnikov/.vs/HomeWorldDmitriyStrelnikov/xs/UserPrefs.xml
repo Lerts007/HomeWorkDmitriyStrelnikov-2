@@ -1,13 +1,21 @@
 ﻿<Properties StartupConfiguration="{D441DFA3-0F1D-492D-B3A1-565365A046DC}|Default">
   <MonoDevelop.Ide.ItemProperties.Task__1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task_2/Message.cs">
+    <Files>
+      <File FileName="Lesson_5_Task_3/Program.cs" Line="9" Column="34" />
+      <File FileName="Lesson_5_Task_3/Message.cs" Line="49" Column="23" />
+      <File FileName="Lesson_5_Task_3/Option.cs" Line="15" Column="1" />
+      <File FileName="Task_2/Message.cs" Line="1" Column="1" />
+      <File FileName="Task_2/Option.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HomeWorldDmitriyStrelnikov" expanded="True">
+            <Node name="Lesson_5_Task_3" expanded="True" />
             <Node name="Task_1" expanded="True" />
             <Node name="Task_2" expanded="True">
-              <Node name="Option.cs" selected="True" />
+              <Node name="Message.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -19,7 +27,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/HomeWorldDmitriyStrelnikov/Task_2/Message.cs" relfile="Task_2/Message.cs" line="161" column="1" />
-      <Breakpoint file="/Users/anastasia/Desktop/Дима/2/HomeWorkDmitriyStrelnikov-2/HomeWorldDmitriyStrelnikov/Task_2/Option.cs" relfile="Task_2/Option.cs" line="18" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

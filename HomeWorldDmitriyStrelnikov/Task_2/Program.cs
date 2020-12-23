@@ -22,8 +22,6 @@ namespace Task_2
 
 
             var task = new Option();
-            task.ToString();
-            task.Enter();
             //var file = new Message("date.txt");
             //file.TextOutput();
             //file.LengthWords();
