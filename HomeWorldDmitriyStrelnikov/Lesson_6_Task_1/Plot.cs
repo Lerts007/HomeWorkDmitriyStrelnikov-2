@@ -5,15 +5,17 @@ namespace Lesson_6_Task_1
 
     public class Plot
     {
-        int min;
-        int max;
+        public int min;
+        public int max;
+        public double[] MyArray;
 
-        public Plot()
+        public void lenght()
         {
             int min, max;
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.Write("Введите длину отрезка." +
                 "\nМинимальное значение min = ");
-            while(!int.TryParse(Console.ReadLine(), out min))
+            while (!int.TryParse(Console.ReadLine(), out min))
             {
                 Console.WriteLine("Введите целое число!");
                 Console.Write("Минимальное значение min = ");
@@ -27,6 +29,9 @@ namespace Lesson_6_Task_1
                 Console.Write("Максимальное значение max = ");
             }
             this.max = max;
+            Console.WriteLine();
+            Console.ResetColor();
+
         }
 
         public double f(double x) { return 5 * x * x; }
@@ -37,11 +42,42 @@ namespace Lesson_6_Task_1
 
         public void Enter(Function fanc)
         {
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            double[] MyArray = new double[max - min + 1];
+            
+            int j = 0;
             for (int x = min; x <= max; x++)
             {
-                Console.WriteLine($"{x,3} | {fanc(x): 0.00}");
+                double a = fanc(x);
+                Console.WriteLine($"{x,3} | {a: 0.00}");
+                MyArray[j] = a;
+                j++;
+
             }
+
+            this.MyArray = MyArray;
+            
             Console.WriteLine();
+            Console.ResetColor();
+
         }
+        public void Array(out double[] arr)
+        {
+            arr = this.MyArray;
+        }
+
+        public void MinZnach()
+        {
+            var b = new Load(MyArray);
+            double ResMin;
+            b.Output(out ResMin);
+
+
+            Console.WriteLine($"\nМинимальное значение функции: {ResMin: 0.00}");
+
+        }
+        
+        
+        
     }
 }
